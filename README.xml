@@ -1,0 +1,17 @@
+# Agri-robot-vision
+
+GuideLine- How i setup image recognistion
+
+We can use ultralytics or Yolo model 
+
+TO use ultralytics 
+Pip install ultralytics  ( This will take around 3-4 hours based on internet speed - Be patient )
+
+
+
+To use Yolo library on local, clone it
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+
+
